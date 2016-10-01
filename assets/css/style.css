@@ -7060,4 +7060,11 @@ a:hover, a:active, a:focus {
   .element {
     font-size: 25px; } }
 
+.availability-ribbon.available .availability-ribbon__banner {
+  background-color: #ed3e44; }
+
+@media (max-width: 767px) {
+  .availability-ribbon {
+    display: none; } }
+
 /*# sourceMappingURL=style.css.map */
